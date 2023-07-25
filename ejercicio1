@@ -1,0 +1,14 @@
+
+const array = ['Gabriel', 'Lisa', 'Rocio', 'Mini']
+
+console.log(array)
+
+///////////////////////////
+const miSet = new Set (array)
+
+miSet.add('Cristina')
+console.log(miSet)
+////////////////////////////
+
+miSet.add('JavaScript')
+console.log(miSet)
